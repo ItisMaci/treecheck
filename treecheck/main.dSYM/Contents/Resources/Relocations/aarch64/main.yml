@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/maci/Desktop/Public/FH-SS25/ALGO/treecheck/main'
+relocations:     []
+...
