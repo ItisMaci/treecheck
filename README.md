@@ -28,13 +28,7 @@ treecheck file1 file2
 - **Type:** Console-based application  
 
 ## 📂 Input Format  
-Each file should contain a binary tree with integer values. *(Format details can be added here if needed.)*  
-
-## 🔧 Future Improvements  
-- Improve input handling and error messages  
-- Add tree visualization in the console  
-- Optimize performance for large trees  
-
+Each file should contain single integer value in each line. *(Format details can be added here if needed.)*  
 ---  
 
 ⭐ This project was created for learning purposes.
