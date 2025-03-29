@@ -28,7 +28,7 @@ treecheck file1 file2
 - **Type:** Console-based application  
 
 ## 📂 Input Format  
-##Each file should contain single integer value in each line.##
+- Each file should contain single integer value in each line.
 ---  
 
 ⭐ This project was created for learning purposes.
